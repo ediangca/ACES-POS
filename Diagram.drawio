@@ -956,7 +956,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kRjiYqjKtC23JgH-O0qc-345" value="UID" style="shape=partialRectangle;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="kRjiYqjKtC23JgH-O0qc-343" vertex="1">
+        <mxCell id="kRjiYqjKtC23JgH-O0qc-345" value="&lt;b&gt;&lt;font color=&quot;#3399ff&quot;&gt;UID&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="kRjiYqjKtC23JgH-O0qc-343" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1103,6 +1103,20 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="900" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QWnhRxGnhgyg7Uiotc9i-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QWnhRxGnhgyg7Uiotc9i-30" target="kRjiYqjKtC23JgH-O0qc-344">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QWnhRxGnhgyg7Uiotc9i-30" value="" style="rhombus;whiteSpace=wrap;html=1;startSize=30;fontStyle=1;resizable=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QWnhRxGnhgyg7Uiotc9i-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kRjiYqjKtC23JgH-O0qc-4" target="QWnhRxGnhgyg7Uiotc9i-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="210" />
+              <mxPoint x="40" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
