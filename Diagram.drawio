@@ -1013,7 +1013,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kRjiYqjKtC23JgH-O0qc-358" value="SINo" style="shape=partialRectangle;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="kRjiYqjKtC23JgH-O0qc-356" vertex="1">
+        <mxCell id="kRjiYqjKtC23JgH-O0qc-358" value="&lt;b&gt;&lt;font color=&quot;#3399ff&quot;&gt;SINo&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="kRjiYqjKtC23JgH-O0qc-356" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
