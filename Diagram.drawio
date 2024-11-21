@@ -735,7 +735,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kRjiYqjKtC23JgH-O0qc-281" value="DRI&lt;div&gt;(Delivery Receiving Item)&lt;/div&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="kRjiYqjKtC23JgH-O0qc-281" value="DRRI&lt;div&gt;(Delivery Receiving Item)&lt;/div&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1510" y="280" width="180" height="153" as="geometry">
             <mxRectangle x="70" y="70" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
